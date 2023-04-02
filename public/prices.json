@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,  
+      "name": "Basic",
+      "price": 9.99,
+      "description": "Great for individuals and small teams just getting started. Have fun with us",
+      "features": [
+        "Up to 5 users",
+        "10 GB of storage",
+        "Email support",
+        "Access to basic templates",
+        "Export data to CSV"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Pro",
+      "price": 19.99,
+      "description": "Ideal for growing businesses that need more advanced features.",
+      "features": [
+        "Up to 10 users",
+        "50 GB of storage",
+        "24/7 support",
+        "Custom branding",
+        "Access to premium templates",
+        "Export data to CSV and Excel"
+      ]
+    },
+    {
+      "id": 3,  
+      "name": "Enterprise",
+      "price": 49.99,
+      "description": "Designed for large organizations with complex needs and high security requirements.",
+      "features": [
+        "Unlimited users",
+        "100 GB of storage",
+        "24/7 support",
+        "Custom branding",
+        "Single sign-on",
+        "Access to all templates",
+        "Export data to CSV, Excel, and PDF"
+      ]
+    }
+  ]
+  
